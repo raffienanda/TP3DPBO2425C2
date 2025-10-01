@@ -1,3 +1,8 @@
+# JANJI
+Saya Raffie Arsy Ananda dengan NIM 2405916 mengerjakan Tugas Praktikum 3 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+<hr>
+
 
 # 1. class Karakter
 class ini sebgai class utama (parent utama) dari semua class lainnya. class ini berisi data fisik umum dari karakter. atributnya terdapat Nama, TinggiBadan, dan Umur. Class ini berperan sebagai parent dari 3 class, karena 3 classnya itu merupakan jenis jenis ras dari karakter. class ini juga membentuk Hierarchical inheritance dengan class Goblin, Manusia, dan Demon. 
