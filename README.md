@@ -1,8 +1,8 @@
 
-#1. class Karakter
+# 1. class Karakter
 class ini sebgai class utama (parent utama) dari semua class lainnya. class ini berisi data fisik umum dari karakter. atributnya terdapat Nama, TinggiBadan, dan Umur. Class ini berperan sebagai parent dari 3 class, karena 3 classnya itu merupakan jenis jenis ras dari karakter. class ini juga membentuk Hierarchical inheritance dengan class Goblin, Manusia, dan Demon. 
 
-#######2. class Goblin
+# 2. class Goblin
 class ini merupakan keturunan dari class Karakter karena goblin  merupakan salah satu ras dari karakter yang terdapat pada game rpg ini. class Goblin juga memiliki atribut FisikSpesial, karena dibandingkan dengan karakter lainnya ia memiliki fisik yang spesial seperti, gigi taring yang panjang dan massa otot yang lebih dibanding rata-rata. 
 
 3. class Manusia
