@@ -40,6 +40,8 @@ class ini berhubungan komposisi dengan Karakter, karena setiap karakter pasti me
 
 *Python*
 <img width="1465" height="595" alt="image" src="https://github.com/user-attachments/assets/5b7a63b4-a3fa-4f10-a778-3dece99e8fe6" />
+<img width="1238" height="658" alt="image" src="https://github.com/user-attachments/assets/0e791bca-57ac-4627-8139-cc06c4edf11a" />
+
 
 *Java*
 <img width="1335" height="850" alt="image" src="https://github.com/user-attachments/assets/13e13958-10c3-4363-8c78-309fb95ebaa6" />
