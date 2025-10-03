@@ -31,3 +31,7 @@ class ini berhubungan komposisi dengan Karakter, karena setiap karakter pasti me
 
 # DIAGRAM
 <img width="1078" height="896" alt="image" src="https://github.com/user-attachments/assets/a2edf755-8738-4371-882e-173ed8e6675e" />
+
+# DOKUMENTASI
+*CPP*
+<img width="1101" height="594" alt="image" src="https://github.com/user-attachments/assets/97285aa4-03ba-4796-a1a5-3db6a7d18e11" />
