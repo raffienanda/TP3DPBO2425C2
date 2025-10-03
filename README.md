@@ -29,6 +29,9 @@ class ini merupakan hasil gabungan dari Manusia dan Demon, sehingga class ini me
 
 class ini berhubungan komposisi dengan Karakter, karena setiap karakter pasti memiliki status HP, stamina, dan level. Jika karakter tidak memiliki status tersebut, maka karakter tidak akan ada atau mati.
 
+# ALUR PEMROGRAMAN
+Pada program yang dibuat dalam bahasa C++, Java, dan Python, alur eksekusi berjalan secara statis tanpa adanya menu pilihan dari user. Program langsung dimulai dengan membuat objek-objek dari setiap kelas, misalnya Status, Goblin, Manusia, Demon, dan HalfHumanDemon, lengkap dengan atribut yang sudah ditentukan di dalam kode. Setelah objek berhasil dibuat, program memanggil metode seperti tampilkan_info() untuk menampilkan informasi dari setiap objek, sehingga seluruh data karakter langsung muncul di layar. Beberapa objek juga menggunakan setter dan getter untuk memperbarui atau mengambil nilai atribut tertentu, contohnya mengganti transformasi pada objek HalfHumanDemon. Setelah semua proses selesai dijalankan, program akan berhenti secara otomatis tanpa menunggu interaksi tambahan dari user.
+
 # DIAGRAM
 <img width="1078" height="896" alt="image" src="https://github.com/user-attachments/assets/a2edf755-8738-4371-882e-173ed8e6675e" />
 
