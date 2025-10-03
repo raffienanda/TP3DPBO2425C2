@@ -45,3 +45,5 @@ class ini berhubungan komposisi dengan Karakter, karena setiap karakter pasti me
 
 *Java*
 <img width="1335" height="850" alt="image" src="https://github.com/user-attachments/assets/13e13958-10c3-4363-8c78-309fb95ebaa6" />
+<img width="1282" height="924" alt="image" src="https://github.com/user-attachments/assets/9ca52689-eeb4-4d4f-92f9-d6c12125f8ee" />
+
