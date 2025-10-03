@@ -35,6 +35,8 @@ class ini berhubungan komposisi dengan Karakter, karena setiap karakter pasti me
 # DOKUMENTASI
 *CPP*
 <img width="1101" height="594" alt="image" src="https://github.com/user-attachments/assets/97285aa4-03ba-4796-a1a5-3db6a7d18e11" />
+<img width="1246" height="663" alt="Screenshot 2025-10-03 231421" src="https://github.com/user-attachments/assets/5f72ddb0-2afe-46ab-945e-21ae049bed90" />
+
 
 *Python*
 <img width="1465" height="595" alt="image" src="https://github.com/user-attachments/assets/5b7a63b4-a3fa-4f10-a778-3dece99e8fe6" />
